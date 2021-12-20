@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "dev": "next dev"
+    "dev": "node server.js"
   },
-  "author": "",
+  "author": "Charaka Abeywickrama",
   "license": "ISC",
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.0.0",
